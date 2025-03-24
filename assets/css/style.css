@@ -154,3 +154,11 @@ footer {
     min-height: 120px;
     margin: 0;
 }
+
+#footer-details {
+    padding: 20px;
+}
+
+.social-links {
+    padding-bottom: 15px;
+}
